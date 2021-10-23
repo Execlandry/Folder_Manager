@@ -1,3 +1,5 @@
+# Folder Manager
+This is a React.js Project which simulates opening and closing of multiple folders and files using React Hooks. 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
